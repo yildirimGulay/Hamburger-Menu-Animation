@@ -50,7 +50,7 @@ h1{
   
 
 
-.images{
+.imgbig{
     width: 720px;
     height: 500px;
     background-image: url(chefs.jpg);
@@ -173,7 +173,7 @@ input:checked ~ .icon > .diagonal.part2 {
  }
 @media all and (max-width: 600px) {
 
-    .images{
+    .imgbig{
         display: none;    
     }
 
